@@ -32,27 +32,27 @@ function yesClick(){
 }
 
 const photos = [
-"photos/photos/photo1.jpg",
-"photos/photos/photo2.jpg",
-"photos/photos/photo3.jpg",
-"photos/photos/photo4.jpg",
-"photos/photos/photo5.jpg",
-"photos/photos/photo6.jpg",
-"photos/photos/photo7.jpg",
-"photos/photos/photo8.jpg",
-"photos/photos/photo9.jpg",
-"photos/photos/photo10.jpg",
-"photos/photos/photo11.jpg",
-"photos/photos/photo12.jpg",
-"photos/photos/photo13.jpg",
-"photos/photos/photo14.jpg",
-"photos/photos/photo15.jpg",
-"photos/photos/photo16.jpg",
-"photos/photos/photo17.jpg",
-"photos/photos/photo18.jpg",
-"photos/photos/photo19.jpg",
-"photos/photos/photo20.jpg",
-"photos/photos/photo21.jpg"
+"photo1.jpg",
+"photo2.jpg",
+"photo3.jpg",
+"photo4.jpg",
+"photo5.jpg",
+"photo6.jpg",
+"photo7.jpg",
+"photo8.jpg",
+"photo9.jpg",
+"photo10.jpg",
+"photo11.jpg",
+"photo12.jpg",
+"photo13.jpg",
+"photo14.jpg",
+"photo15.jpg",
+"photo16.jpg",
+"photo17.jpg",
+"photo18.jpg",
+"photo19.jpg",
+"photo20.jpg",
+"photo21.jpg"
 ];
 
 let current = 0;
